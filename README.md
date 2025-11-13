@@ -18,8 +18,8 @@
 
 1.  **リポジトリをクローン**
     ```bash
-    git clone <リポジトリURL>
-    cd <プロジェクトディレクトリ>
+    git clone https://github.com/ai208/djangotutorial.git
+    cd djangotutorial
     ```
 
 2.  **仮想環境を作成**
